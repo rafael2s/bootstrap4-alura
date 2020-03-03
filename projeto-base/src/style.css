@@ -3,7 +3,6 @@
     object-position: 0 80%;
     height: 400px;
 }
-
 .imagem-carrossel-dois {
     object-fit: cover;
     height: 400px;
@@ -11,5 +10,7 @@
 .fonte-titulo{
     font-family: 'Pacifico';
 }
-
+.cor-especial {
+    color: darkred;
+}
 
