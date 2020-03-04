@@ -8,10 +8,10 @@
     height: 400px;
 }
 .fonte-titulo{
-    font-family: 'Pacifico';
+    font-family: 'Pacifico', cursive;
 }
 .texto-cor-especial {
-    color: darkred;
+    color: darkred!important;
 }
 
 .botao-cor-especial {
